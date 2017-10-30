@@ -1,0 +1,20 @@
+body {
+  background:gray;
+}
+
+li{
+  border: 2px solid black;
+}
+/*targeting a ID name here*/
+
+#advanced {
+
+  background: gray;
+}
+
+/*targeting class names here */
+
+
+.completed {
+  text-decoration: line-through;
+}
