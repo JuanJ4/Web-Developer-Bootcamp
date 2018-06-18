@@ -30,9 +30,4 @@ My progress of this bootcamp which has helped me understand Front-End Developmen
 - Selector Exercise
 - jQuery Methods
 
-## The Next Section Is Diving In Into Back-End Development Using Node. Js, Will Continue to Update This! Stay Tuned.
-
-
-
-
-October 29, 2017
+## The Next Section Is Diving In Into Back-End Development Using Node. Js, Will Continue to Update This!
