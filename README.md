@@ -69,4 +69,4 @@ Each Campground has:
 * 
 
 
-# My first full stack app, working on it, many updates will be continued to added. 
+# My first full stack app, working on it, many updates will continue to be added. 
