@@ -34,7 +34,7 @@ My progress of this bootcamp which has helped me understand Front-End Developmen
 
 
 
-#YelpCamp (September 2018)
+## YelpCamp (September 2018)
 
 ##Initial Setup
 * Add Landing Page
