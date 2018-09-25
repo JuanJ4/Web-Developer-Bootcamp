@@ -26,7 +26,7 @@ My progress of this bootcamp which has helped me understand Front-End Developmen
 - Adding Listeners (.addElementListener)
 - Score Keeper, using .addEventListener, selectors
 
-###jQuery
+## jQuery
 - Selector Exercise
 - jQuery Methods
 
