@@ -65,8 +65,7 @@ Each Campground has:
 #Add Mongoose
 * Install and configure mongoose
 * Setup campground model
-* Use campground model inside of our routes!
-* 
+* Use campground model inside of our routes! 
 
 
-# My first full stack app, working on it, many updates will continue to be added. 
+My first full stack app, working on it, many updates will continue to be added. 
