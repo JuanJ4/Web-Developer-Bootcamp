@@ -30,9 +30,7 @@ My progress of this bootcamp which has helped me understand Front-End Developmen
 - Selector Exercise
 - jQuery Methods
 
-## The Next Section Is Diving In Into Back-End Development Using Node. Js, Will Continue to Update This. (October 2017)
-
-
+## The Next Section Is Diving In Into Back-End Development Using Node. Js, Will Continue to Update This.
 
 ## YelpCamp (September 2018)
 
@@ -43,7 +41,7 @@ My progress of this bootcamp which has helped me understand Front-End Developmen
 Each Campground has:
    * Name
    * Image
-
+   
 #Layout and Basic Styling
 * Create our header and footer partials
 * Add in Bootstrap
