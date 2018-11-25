@@ -64,6 +64,3 @@ Each Campground has:
 * Install and configure mongoose
 * Setup campground model
 * Use campground model inside of our routes! 
-
-
-My first full stack app, working on it, many updates will continue to be added. 
