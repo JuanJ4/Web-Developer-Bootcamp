@@ -27,7 +27,7 @@ My progress of this bootcamp which has helped me understand Front-End Developmen
 - Score Keeper, using .addEventListener, selectors
 
 ## jQuery
-- Selector Exercise
+- Selectors, manipulating the DOM
 - jQuery Methods
 
 ## The Next Section Is Diving In Into Back-End Development Using Node. Js, Will Continue to Update This.
