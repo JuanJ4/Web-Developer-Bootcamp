@@ -26,7 +26,7 @@ My progress of this bootcamp which has helped me understand Front-End Developmen
 
 ## jQuery
 - Selectors, manipulating the DOM
-- jQuery Methods
+- jQuery Methods!
 
 ## The Next Section Is Diving In Into Back-End Development Using Node. Js, Will Continue to Update This.
 
