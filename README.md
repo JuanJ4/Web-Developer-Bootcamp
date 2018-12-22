@@ -1,6 +1,5 @@
 # The Web Developer Bootcamp on Udemy by Colt Steele
 
-My progress of this bootcamp which has helped me understand Front-End Development.
 
 ##Concepts, Exercises, & Projects
 
