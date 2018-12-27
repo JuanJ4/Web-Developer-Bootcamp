@@ -1,4 +1,4 @@
-# The Web Developer Bootcamp on Udemy by Colt Steele
+# The Web Developer Bootcamp by Colt Steele
 
 
 ##Concepts, Exercises, & Projects
