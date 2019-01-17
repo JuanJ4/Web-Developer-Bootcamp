@@ -1,7 +1,7 @@
-# The Web Developer Bootcamp by Colt Steele
+# The Web Developer Bootcamp by Colt Steele.
 
 
-##Concepts, Exercises, & Projects
+##Concepts, Exercises, Projects
 
 ### HTML & CSS & Bootstrap
 - First Blog Post Exercise
