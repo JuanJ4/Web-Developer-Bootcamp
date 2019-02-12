@@ -1,8 +1,5 @@
 # The Web Developer Bootcamp by Colt Steele.
 
-
-##Concepts, Exercises, Projects
-
 ### HTML & CSS & Bootstrap
 - First Blog Post Exercise
 - Creating HTML Tables with Pokemon Pictures
