@@ -24,9 +24,9 @@
 - Selectors, manipulating the DOM
 - jQuery Methods!
 
-## The Next Section Is Diving In Into Back-End Development Using Node. Js, Will Continue to Update This.
+## The Next Section Is Diving In Into Back-End Development Using Node. Js, and Databases (MongoDB) Will Continue to Update This.
 
-## YelpCamp (September 2018)
+## YelpCamp 
 
 ##Initial Setup
 * Add Landing Page
