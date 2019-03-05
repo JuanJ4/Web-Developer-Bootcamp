@@ -2,7 +2,7 @@
 
 ### HTML & CSS & Bootstrap
 - First Blog Post Exercise
-- Creating HTML Tables with Pokemon Pictures
+- Creating HTML Tables
 - Using CSS Selectors
 - Photo Grid Using CSS
 - Blog Post Using CSS 
