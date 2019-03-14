@@ -9,7 +9,7 @@
 - Photo Grid Using Bootstrap 
 - Landing Page Using Bootstrap
 
-### Vanilla Javascript
+### Javascript
 - Exercises Using the prompt() and console.log()
 - For Loop & While Loop Exercises
 - Using Functions
