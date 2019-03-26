@@ -1,4 +1,4 @@
-# Web Developer Bootcamp by Colt Steele.
+# Web Developer Bootcamp
 
 ### HTML & CSS & Bootstrap
 - First Blog Post Exercise
