@@ -27,7 +27,7 @@
 
 ## The Next Section Is Diving In Into Back-End Development Using Node. Js, and Databases (MongoDB) Will Continue to Update This.
 
-## YelpCamp 
+## YelpCamp Using Node JS, Express and EJS.
 
 ##Initial Setup
 * Add Landing Page
