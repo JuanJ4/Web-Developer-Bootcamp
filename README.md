@@ -15,7 +15,7 @@
 - Using Functions
 - Todo List using Arrays
 
-#### Manipulating the DOM (JavaScript)
+#### Manipulating the DOM 
 - Intro to Using Selectors .getElementById, .getElementByTagName, .querySelector
 - Adding Listeners (.addElementListener)
 - Score Keeper, using .addEventListener, selectors
