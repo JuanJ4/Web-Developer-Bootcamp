@@ -36,6 +36,7 @@
 Each Campground has:
    * Name
    * Image
+   * Link
    
 #Layout and Basic Styling
 * Create our header and footer partials
