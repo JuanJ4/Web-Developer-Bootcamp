@@ -40,7 +40,7 @@ Each Campground has:
    
 #Layout and Basic Styling
 * Create our header and footer partials
-* Add in Bootstrap
+* Add in Bootstrap Components
 
 #Creating New Campgrounds
 * Setup new campground POST route
@@ -59,4 +59,4 @@ Each Campground has:
 #Add Mongoose
 * Install and configure mongoose
 * Setup campground model
-* Use campground model inside of our express js routes
+* Use campground inside of our express js routes
