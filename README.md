@@ -23,7 +23,7 @@
 ## jQuery
 - Selectors, manipulating the DOM
 - jQuery Methods!
-- jQuery & AJax
+- jQuery & AJAX
 
 ## The Next Section Is Diving In Into Back-End Development Using Node. Js, and Databases (MongoDB) Will Continue to Update This.
 
