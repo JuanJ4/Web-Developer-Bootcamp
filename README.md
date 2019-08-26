@@ -59,4 +59,4 @@ Each Campground has:
 #Add Mongoose
 * Install and configure mongoose
 * Setup campground model
-* Use campground inside of our express js routes
+* Use unique campground inside of our express js routes
