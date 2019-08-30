@@ -31,7 +31,7 @@
 
 ##Initial Setup
 * Add Landing Page
-* Add Campgrounds Page that lists all campgrounds
+* Add Campgrounds Page that lists campgrounds
 
 Each Campground has:
    * Name
