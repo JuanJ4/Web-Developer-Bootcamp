@@ -59,4 +59,4 @@ Style the Navbar and Form
 Add Mongoose
 * Install and configure mongoose
 * Setup campground model
-* Use unique campground inside of our express js routes
+* Use unique campground inside of our express routes
