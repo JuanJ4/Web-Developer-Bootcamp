@@ -1,5 +1,5 @@
 function average(scores){
-    // add all scores together
+    // add all the scores together
     
     var total = 0;
     scores.forEach(function(score){
