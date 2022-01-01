@@ -25,7 +25,6 @@
 - jQuery Methods!
 - jQuery & AJAX
 
-## The Next Section Is Diving In Into Back-End Development Using Node. Js, and Databases (MongoDB) Will Continue to Update This.
 
 ## YelpCamp Using Node JS, Express and EJS.
 
